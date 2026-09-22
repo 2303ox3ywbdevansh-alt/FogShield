@@ -1,0 +1,26 @@
+{
+  "name": "fogshield-hackathon",
+  "version": "1.0.0",
+  "description": "FogShield - AI-Driven Multi-Sensor Safety & Route Guidance Engine for Mining Vehicles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "hackathon",
+    "mining",
+    "safety",
+    "ai",
+    "fog",
+    "fogshield"
+  ],
+  "author": "CommitED Team",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
